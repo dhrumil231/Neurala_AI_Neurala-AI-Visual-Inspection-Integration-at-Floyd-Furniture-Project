@@ -1,4 +1,4 @@
-# Neurala_AI_Neurala-AI-Visual-Inspection-Integration-at-Floyd-Furniture-Project
+# Neurala_AI_Neurala-AI-Visual-Inspection-Integration-at-Floyd-Furniture-Project using Project Charter and MS Projects
 Our project journey was meticulously structured, and here's a snapshot:
 
 1) MS Project 1B & 2B: We developed detailed project plans using Microsoft Project. MS Project 1 laid the groundwork, while MS Project 2 refined the plan with a stronger emphasis on implementation specifics. Key aspects included defining project phases, communication strategies, and resource allocation. The project spanned multiple phases over an extended period.
